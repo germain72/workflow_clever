@@ -1,0 +1,13 @@
+ Le volume dans le lecteur E s'appelle Data2
+ Le num‚ro de s‚rie du volume est 4878-762C
+
+ R‚pertoire de E:\ALL_Formations\0_clever_institut\git\drive-download-20220317T080854Z-001\projet\workflow_clever
+
+16/05/2022  10:19    <DIR>          .
+16/05/2022  10:19    <DIR>          ..
+16/05/2022  09:42             1ÿ928 .gitignore
+16/05/2022  10:19                 0 dir.txt
+16/05/2022  09:42                17 README.md
+16/05/2022  10:11    <DIR>          Tutorials-master
+               3 fichier(s)            1ÿ945 octets
+               3 R‚p(s)  139ÿ030ÿ884ÿ352 octets libres
